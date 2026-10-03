@@ -1,0 +1,14 @@
+{
+  "name": "dsrupt",
+  "displayName": "Dsrupt",
+  "description": "On-brand AI images, video, audio, motion graphics and ad variations from your saved Dsrupt brands.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Dsrupt Technologies",
+    "url": "https://dsrupt.ai"
+  },
+  "homepage": "https://dsrupt.ai",
+  "repository": "https://github.com/Dsrupt-Technologies/dsrupt-claude-plugin",
+  "license": "MIT",
+  "keywords": ["brand", "marketing", "creative", "video", "images", "ads"]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dsrupt": {
+      "type": "http",
+      "url": "https://backend.dsrupt.ai/mcp"
+    }
+  }
+}
